@@ -1,7 +1,7 @@
 name: AT
 main: me.Brian.at.Main
-version: 0.2
-author: Brian fyfly nFeng connection_lost
+version: 0.3
+author: ["Brian","fyfly","nFeng","connection_lost","Bryan_lzh"]
 commands:
    at:
       description: help
